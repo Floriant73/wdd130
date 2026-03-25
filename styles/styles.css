@@ -1,0 +1,45 @@
+/* Navigation */
+nav {
+    background-color: darkblue;
+    padding: 10px;
+}
+
+/* MAIN */
+main {
+    max-width: 840px;
+}
+
+/* ASIDE */
+aside {
+    width: 20rem;
+    margin: 1rem;
+    border: 1px solid rgb(0 0 0 / 0.2);
+    padding: 1rem;
+    background-color: #eee;
+    color: #333;
+    text-align: center;
+}
+
+/* IMAGE DANS ASIDE */
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+/* IMAGE DANS MAIN */
+main img {
+    width: 150px;
+    height: auto;
+}
+
+/* PARAGRAPHE */
+p {
+    padding: 0;
+}
+
+/* FOOTER */
+footer {
+    margin-top: 15px;
+    border-top: 1px solid #000;
+    text-align: center;
+}
